@@ -35,10 +35,10 @@ server ----- server(backend code)
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/google-drive-clone-minor.git
+ # git clone https://github.com/Prateek-saraswat/google-drive-clone.git
 
-cd google-drive-clone/server  -- node app.js
-cd google-drive-clone/client  -- npm run
+# cd google-drive-clone/server  -- node app.js \n
+# cd google-drive-clone/client  -- npm run
 
 ## MAKE SURE TO DO THESE CHANGES 
 
