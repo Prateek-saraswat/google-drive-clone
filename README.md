@@ -28,8 +28,9 @@ This is a lightweight Google Drive clone built as part of a minor project using 
 
 ## Project Structure
 
-client ----- frontend code
-server ----- server(backend code)
+# |-- client ----- frontend code
+  |
+# |---server ----- server(backend code)
 
 ## How to Run Locally
 
@@ -37,7 +38,7 @@ server ----- server(backend code)
 ```bash
  # git clone https://github.com/Prateek-saraswat/google-drive-clone.git
 
-# cd google-drive-clone/server  -- node app.js \n
+# cd google-drive-clone/server  -- node app.js 
 # cd google-drive-clone/client  -- npm run
 
 ## MAKE SURE TO DO THESE CHANGES 
